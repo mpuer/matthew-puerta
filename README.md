@@ -4,7 +4,7 @@
 - 🌱 I love learning new technologies
  
 
-- 🔭 I’m currently working on [myDiary](https://github.com/mpuer/diary) and learning about Vue.js 📝
+- 🔭 I’m currently learning about Vue.js 📝
  
 
 - 📫 Connect with me!  <a href="https://www.linkedin.com/in/matthew-puerta" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:matthewpdev@gmail.com" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
